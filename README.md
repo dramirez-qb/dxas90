@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🔃 Attempting to 📈 enhance 💻 OSS one 🗃️ repository at a time 🕘
 
 ### 📫 How to reach me
-[![linkedin][linkedin-badge]][linkedin] [![gmail][gmail-badge]][gmail] ![Discord][discord-badge]
+[![linkedin][linkedin-badge]][linkedin] [![gmail][gmail-badge]][gmail] ![Discord][discord-badge] [![telegram][telegram-badge]][telegram]
 
 ### Stats
 ![Github Years][gh-years-badge] ![Github Visits][gh-visits-badge]
@@ -29,11 +29,15 @@ Here are some ideas to get you started:
 [current]: https://github.com/Financial-Times
 [linkedin]: https://www.linkedin.com/in/daniel-ramirez-1990/
 [linkedin-badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
+[dev-to-badge]: https://img.shields.io/badge/DEV-dxas90-%230A0A0A.svg?&style=for-the-badge&logo=DEV.to&logoColor=white
+[dev-to]: https://dev.to/dxas90
+[telegram]: https://t.me/dxas90
+[telegram-badge]: https://img.shields.io/badge/telegram-dxas90-%230A0A0A.svg?&style=for-the-badge&logo=telegram&logoColor=white
 [gmail]: mailto:dxas90@gmail.com
 [gmail-badge]: https://img.shields.io/badge/gmail-dxas90%40gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white
 [discord-badge]: https://img.shields.io/badge/discord-0[%2B__--]0%20Hashirama%232519-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white
 [gh-years-badge]: https://badges.pufler.dev/years/dxas90?style=for-the-badge&label=Github%20Years&color=white
 [gh-visits-badge]: https://badges.pufler.dev/visits/dxas90/dxas90?style=for-the-badge&color=white
-[gh-stats-section]: https://github-readme-stats.vercel.app/api?username=dxas90&count_private=true&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true
-[gh-languages-section]: https://github-readme-stats.vercel.app/api/top-langs/?username=dxas90&layout=compact&hide=smarty,dockerfile&theme=dracula&hide_title=true&card_width=230
+[gh-stats-section]: https://github-readme-stats.vercel.app/api?username=dxas90&count_private=true&show_icons=true&theme=dracula&include_all_commits=true
+[gh-languages-section]: https://github-readme-stats.vercel.app/api/top-langs/?username=dxas90&layout=compact&hide=smarty&theme=dracula&card_width=230
 [profile]: https://github.com/dxas90
