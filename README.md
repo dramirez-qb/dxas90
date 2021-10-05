@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🔃 Attempting to 📈 enhance 💻 OSS one 🗃️ repository at a time 🕘
 
 ### 📫 How to reach me
-[![linkedin][linkedin-badge]][linkedin] [![gmail][gmail-badge]][gmail] ![Discord][discord-badge] [![telegram][telegram-badge]][telegram]
+[![linkedin][linkedin-badge]][linkedin] [![codersrank][codersrank-badge]][codersrank] [![gmail][gmail-badge]][gmail] [![telegram][telegram-badge]][telegram]
 
 ### Stats
 ![Github Years][gh-years-badge] ![Github Visits][gh-visits-badge]
@@ -40,4 +40,8 @@ Here are some ideas to get you started:
 [gh-visits-badge]: https://badges.pufler.dev/visits/dxas90/dxas90?style=for-the-badge&color=white
 [gh-stats-section]: https://github-readme-stats.vercel.app/api?username=dxas90&count_private=true&show_icons=true&theme=dracula&include_all_commits=true
 [gh-languages-section]: https://github-readme-stats.vercel.app/api/top-langs/?username=dxas90&layout=compact&hide=smarty&theme=dracula&card_width=230
+[codersrank]: https://profile.codersrank.io/user/dxas90?utm_source=github&utm_medium=referral&utm_campaign=self
+[codersrank-badge]: https://img.shields.io/badge/codersrank-dxas90-%2367A4AC.svg?&style=for-the-badge&logo=codersrank
 [profile]: https://github.com/dxas90
+
+<!--![Discord][discord-badge]-->
