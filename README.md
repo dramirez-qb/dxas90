@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 I'm Daniel Ramirez
 
-*DevOps Engineer at [Financial Times][current]*
+*DevOps Engineer at [Quickbase][current]*
 
 🔃 Attempting to 📈 enhance 💻 OSS one 🗃️ repository at a time 🕘
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [![Github Stats][gh-stats-section]][profile] [![Github Languages][gh-languages-section]][profile]
 
-[current]: https://github.com/Financial-Times
+[current]: https://github.com/Quickbase
 [linkedin]: https://www.linkedin.com/in/daniel-ramirez-1990/
 [linkedin-badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
 [dev-to-badge]: https://img.shields.io/badge/DEV-dxas90-%230A0A0A.svg?&style=for-the-badge&logo=DEV.to&logoColor=white
